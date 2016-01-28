@@ -3,7 +3,10 @@
 
 int main(){
 
-printf("Hola mundo de GitHub");
+int a, b;
+a = 1;
+b = 0;
+printf("Hola mundo de GitHub v:%i",a+b);
 
 return 0;
 
